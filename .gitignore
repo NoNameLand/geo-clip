@@ -1,0 +1,7 @@
+*.png
+data/
+data_0/
+figures/
+results/
+*.pdf
+

@@ -11,8 +11,8 @@ def train(train_dataloader, model, optimizer, epoch, batch_size, device, schedul
     targets_img_gps = torch.Tensor([i for i in range(batch_size)]).long().to(device)
 
     for i ,(imgs, gps) in bar:
-        imgs = imgs.to(device)
-        gps = gps.to(device)
+        imgs = imgs.to(device) # Known images
+        gps = gps.to(device) # known GPS coordinates
         gps_queue = model.get_gps_queue()
 
         optimizer.zero_grad()
