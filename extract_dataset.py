@@ -44,12 +44,12 @@ for shard_fname in shard_fnames[0:]:
             break
     break
     
-plt.imshow(image)
+# plt.imshow(image)
 plt.savefig("results/image.png")
 
 
 # Nunber of photos to extract 
-n = 1000
+n = 10000
 coords_img_file = []
 if not os.path.exists("results/images/"):
     os.makedirs("results/images/")
@@ -60,17 +60,17 @@ for shard_fname in shard_fnames[0:1]:
         for i, record in enumerate(msgpack.Unpacker(infile, raw=False)):
             if i >= n:
                 break
-            coords_img_file.append((record["latitude"], record["longitude"], f"image_{i}.png"))
+            coords_img_file.append((record["latitude"], record["longitude"], f"images/image_{i}.png"))
             image = get_image(record)
-            image.save(f"data/images/image_{i}.png")
+            image.save(f"data/data_0/images/image_{i}.png")
 
 
 # Save CSV file with coordinates and image paths
 import pandas as pd
-img_file_col = [f"image_{i}.png" for i in range(n)]
+img_file_col = [f"images/image_{i}.png" for i in range(n)]
 df = pd.DataFrame(coords_img_file, columns=["LAT", "LON", "IMG_FILE"])
 # df["IMG_FILE"] = [f"results/images/image_{i}.png" for i in range(n)]
-df.to_csv("data/shard_0.csv", index=False)
+df.to_csv("data/data_0/shard_0.csv", index=False)
 
 """
 import matplotlib.pyplot as plt

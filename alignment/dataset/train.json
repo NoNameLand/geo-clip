@@ -1,0 +1,4482 @@
+[
+  {
+    "text": "mountain",
+    "location": [
+      46.8771,
+      8.7314
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.0954,
+      139.8513
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3981,
+      -74.0737
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4969,
+      -74.0909
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8312,
+      -74.0496
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      34.9788,
+      -105.0527
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.7122,
+      -69.9206
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3338,
+      -73.9125
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.6214,
+      -73.9427
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.5962,
+      69.0521
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3739,
+      -73.9617
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.7287,
+      -91.7165
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      1.2671,
+      -68.7784
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4121,
+      -73.9948
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.2032,
+      13.7506
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.1435,
+      137.6639
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      30.1208,
+      -102.9374
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.6977,
+      -92.9077
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.383,
+      137.8305
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -1.1801,
+      37.4163
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.5927,
+      137.4102
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.3119,
+      39.5016
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -1.6322,
+      -58.8898
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.8801,
+      -94.3418
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.8441,
+      139.1636
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.9864,
+      -114.7935
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.8043,
+      33.8436
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.8843,
+      137.0402
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.4886,
+      77.2095
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.9587,
+      136.9067
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.7968,
+      76.3809
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.9239,
+      74.538
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.3718,
+      11.0008
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -1.4052,
+      31.7497
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.1494,
+      33.7231
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      34.4123,
+      -114.382
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.9769,
+      135.6444
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.3567,
+      -64.3783
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.1255,
+      -92.9479
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.0964,
+      39.8976
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.8926,
+      13.09
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.9865,
+      -65.977
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      33.8259,
+      -105.1364
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      0.3425,
+      39.3927
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      1.1156,
+      -67.1158
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      35.2795,
+      -107.157
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.1129,
+      -105.7945
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.9224,
+      137.0227
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.9451,
+      -73.974
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.0977,
+      78.633
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.0162,
+      -94.7514
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -2.8168,
+      -54.6545
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.2201,
+      -103.9666
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.5267,
+      -67.8928
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.1022,
+      -54.3637
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      35.3214,
+      -111.6659
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.1845,
+      63.704
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.3503,
+      -55.976
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.6888,
+      12.6894
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.7902,
+      -93.8666
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.0699,
+      -97.6177
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.9324,
+      -51.7457
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.6416,
+      136.7324
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.9536,
+      -73.9167
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.4351,
+      -52.118
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.1406,
+      71.4611
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      33.1565,
+      -108.9384
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.9063,
+      -94.6639
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.6209,
+      -94.9812
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      35.455,
+      -107.3643
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      1.1192,
+      36.8446
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.0928,
+      7.4863
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.5713,
+      -57.9685
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.2491,
+      12.3379
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.4994,
+      10.6072
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.6881,
+      6.4871
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.3877,
+      72.113
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.6955,
+      -74.0054
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -1.5978,
+      -57.5926
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7895,
+      -74.089
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.9839,
+      75.5455
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.9308,
+      36.6704
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.065,
+      -93.477
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.743,
+      62.3554
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      29.3649,
+      -104.2922
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.3748,
+      69.4962
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.1114,
+      -67.3379
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3531,
+      -74.0704
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      30.3314,
+      -106.2399
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.8446,
+      14.872
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.5597,
+      69.0749
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.1697,
+      137.4687
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.7115,
+      6.9288
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.4906,
+      12.3374
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      4.7923,
+      36.5226
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7932,
+      -74.0718
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      30.2439,
+      -101.4847
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.539,
+      -97.4358
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.062,
+      -74.0448
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.541,
+      -73.9856
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      25.584,
+      -109.2668
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7662,
+      -73.9594
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.8863,
+      -90.7576
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.3683,
+      137.1199
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.2844,
+      34.8435
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.6724,
+      -74.01
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.7618,
+      10.9898
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      26.2727,
+      -100.892
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      0.548,
+      35.5734
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.5891,
+      -94.3926
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      34.072,
+      -106.5255
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      33.0365,
+      -101.7707
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.5499,
+      65.1205
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.2333,
+      12.2309
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.3396,
+      73.7982
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.942,
+      -56.4567
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.3018,
+      39.3519
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      0.9198,
+      32.2372
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.5686,
+      12.7874
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.6831,
+      69.3454
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.8124,
+      62.1449
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.1143,
+      -74.0486
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3547,
+      -73.9747
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.3499,
+      67.1243
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.8446,
+      76.4155
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.3458,
+      -54.7472
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.8097,
+      139.6498
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.2326,
+      -74.0369
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.7266,
+      -58.8763
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.7466,
+      10.7302
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      2.5491,
+      33.8742
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.7805,
+      -92.311
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.6856,
+      -102.1217
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.2077,
+      137.3671
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.9033,
+      60.9209
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      1.6916,
+      -56.0454
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.0587,
+      -57.8158
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3154,
+      -73.982
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.361,
+      -105.0163
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.3289,
+      63.3157
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.5308,
+      -104.8859
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.1167,
+      31.0202
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.0658,
+      -99.2589
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.881,
+      -90.4507
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.7856,
+      39.2722
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.4124,
+      68.6452
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.6678,
+      66.0175
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.3867,
+      -104.6596
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.8326,
+      64.8368
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      35.8671,
+      -111.8718
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.4304,
+      -112.05
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.4562,
+      -68.6055
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.3576,
+      -98.8285
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.2611,
+      137.9074
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.7955,
+      76.5256
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.5262,
+      -67.6439
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.3024,
+      33.2027
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.8239,
+      36.6472
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.9785,
+      -64.7675
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.3369,
+      137.8558
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.3958,
+      -96.6191
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.1431,
+      9.46
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.3529,
+      -95.4413
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.4697,
+      32.8664
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      25.3226,
+      -102.0122
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      28.0328,
+      -102.043
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4284,
+      -74.0712
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.1041,
+      6.6742
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.9593,
+      33.1235
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.2775,
+      62.1714
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7438,
+      -73.9251
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.3228,
+      63.9173
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.5952,
+      79.102
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.4644,
+      139.525
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.7949,
+      -94.6962
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.0033,
+      -74.0918
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.5709,
+      72.1339
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      25.6573,
+      -100.6003
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.7555,
+      6.9457
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.7663,
+      -109.7789
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.6002,
+      14.0738
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -0.6328,
+      37.8013
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.4904,
+      135.0033
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.9082,
+      -96.8658
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.1138,
+      138.02
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8159,
+      -73.9667
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.1966,
+      137.5141
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.2888,
+      6.3884
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.7449,
+      5.7917
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      34.7628,
+      -105.3047
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.9695,
+      30.0464
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.1129,
+      -74.025
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.0406,
+      39.2446
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.3705,
+      13.021
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -2.5034,
+      -59.9961
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.478,
+      139.3365
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3612,
+      -74.0657
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -2.1361,
+      -53.7615
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      33.0871,
+      -100.7898
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.1417,
+      79.8272
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.6283,
+      137.5319
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.8966,
+      12.9217
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.5229,
+      -100.7201
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.6967,
+      32.4087
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.3257,
+      -68.2595
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.3244,
+      14.1306
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.8916,
+      14.7592
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      33.8315,
+      -103.6529
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.7789,
+      -94.257
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.9305,
+      -60.3683
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -1.683,
+      -61.049
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.9676,
+      137.3078
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.5155,
+      6.1955
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.7677,
+      12.0943
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      28.7609,
+      -107.4452
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.868,
+      -92.9729
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.3774,
+      136.3324
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.381,
+      -97.6166
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.5384,
+      77.7205
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.8435,
+      14.9214
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.6647,
+      138.8739
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.7967,
+      -69.8196
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.1085,
+      8.2698
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.2515,
+      -96.4847
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.3393,
+      68.2714
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.0622,
+      78.8856
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.9448,
+      8.1512
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.246,
+      -74.0281
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      1.5046,
+      31.9589
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -1.3854,
+      -57.1086
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.1459,
+      138.5852
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.7455,
+      -92.9955
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.0463,
+      -96.077
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      2.3479,
+      32.2977
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.0664,
+      -74.0378
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.1956,
+      12.013
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.8389,
+      36.8591
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7952,
+      -74.048
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.0405,
+      -74.0777
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.1689,
+      67.8335
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.4259,
+      -102.8376
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4997,
+      -74.0026
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8496,
+      -73.9984
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.1596,
+      30.5544
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.0556,
+      13.4694
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      1.1074,
+      -69.2868
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.8757,
+      -98.6069
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.1422,
+      137.3552
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.8071,
+      -53.8553
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      26.2731,
+      -109.8107
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.458,
+      37.0109
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.1091,
+      77.2066
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      1.1476,
+      -54.5149
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.471,
+      62.5611
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.5561,
+      -98.7969
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.3576,
+      36.215
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.1079,
+      -98.2264
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.7307,
+      -63.4089
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.672,
+      -73.9722
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.8351,
+      78.3558
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -1.2478,
+      34.8776
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.7739,
+      -98.9524
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.2272,
+      -50.9552
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.5855,
+      -55.6648
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.5178,
+      136.9709
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.6487,
+      137.3074
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.6872,
+      -58.2586
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.7692,
+      39.3261
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.4687,
+      -102.4988
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.0796,
+      60.8909
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.7223,
+      -93.7096
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.4648,
+      65.1029
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8705,
+      -74.0087
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8027,
+      -74.019
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.9432,
+      -91.8806
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.8468,
+      -69.6021
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.468,
+      -73.9681
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.9248,
+      -56.4621
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.0341,
+      -73.9873
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.4933,
+      9.0628
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.829,
+      -74.0077
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.0002,
+      -113.0851
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.6905,
+      -55.9659
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.944,
+      139.9574
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.2698,
+      -73.965
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.6707,
+      -73.9073
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.5641,
+      -95.8162
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      31.8768,
+      -109.2597
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.6793,
+      74.9376
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.0037,
+      60.3399
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.2985,
+      -74.0897
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.2651,
+      -73.9008
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      33.1411,
+      -112.4084
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.681,
+      39.7992
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.9503,
+      -53.6272
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.7413,
+      -108.8459
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.8179,
+      -64.1375
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.4569,
+      10.7369
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.9598,
+      10.1915
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.212,
+      137.6817
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.0252,
+      61.1498
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      1.6259,
+      30.8323
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.2423,
+      11.5014
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.5809,
+      137.6403
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.1509,
+      -60.306
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.415,
+      -53.9525
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.6415,
+      71.4477
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.508,
+      33.6524
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.6215,
+      -74.0674
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.5048,
+      66.3709
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.6188,
+      10.0396
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.3441,
+      -63.6975
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.8051,
+      68.7764
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.1168,
+      -66.4379
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.0186,
+      -73.9367
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.7377,
+      70.5466
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.8745,
+      -105.9748
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.0137,
+      38.8201
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.844,
+      7.5618
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.762,
+      6.2013
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.7163,
+      -111.3657
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.6996,
+      -64.7685
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.9247,
+      -74.0725
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.3011,
+      11.6763
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.9487,
+      38.7434
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.8165,
+      70.1176
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.2711,
+      37.4715
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.9996,
+      60.5358
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.9529,
+      -93.1046
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.3628,
+      -50.5755
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.5122,
+      -50.5961
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.2509,
+      32.5425
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.214,
+      -91.8376
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.3686,
+      33.0005
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      28.5931,
+      -105.0962
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.794,
+      -64.8219
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4514,
+      -74.054
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.7911,
+      136.2394
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      0.6594,
+      38.1979
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      2.7365,
+      38.6519
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.4794,
+      -96.5528
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.6288,
+      36.0357
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.0086,
+      -96.8889
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      2.9028,
+      36.0223
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.8526,
+      -107.5387
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.7754,
+      -98.9434
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      29.9309,
+      -102.5707
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.744,
+      -95.9027
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.8954,
+      -53.3978
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.073,
+      137.5061
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.7964,
+      -52.1105
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      26.9031,
+      -107.2596
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.6969,
+      37.8933
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      28.4931,
+      -104.3608
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.2325,
+      -90.1766
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.2016,
+      -99.4526
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.8858,
+      76.0704
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.553,
+      6.3512
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -0.379,
+      39.5348
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.1257,
+      7.0577
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      30.2041,
+      -101.8477
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.4513,
+      135.9338
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.1233,
+      62.9532
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4928,
+      -74.0046
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.6988,
+      13.3996
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.3378,
+      -101.5591
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.9113,
+      -97.795
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4742,
+      -73.9431
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.3731,
+      66.0457
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.8415,
+      -97.2472
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.275,
+      138.1881
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.6847,
+      139.8635
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.2183,
+      -65.0026
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.9176,
+      136.9897
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.6109,
+      137.6191
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.2191,
+      37.8674
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.4731,
+      -96.1811
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.2334,
+      135.3604
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.0972,
+      -96.3425
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      1.2809,
+      -58.7938
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.8663,
+      -99.2588
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -1.7552,
+      -55.1984
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      0.7202,
+      32.9015
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.365,
+      37.7426
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.2268,
+      137.9264
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.9233,
+      -66.3768
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.9481,
+      12.7646
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.2779,
+      -98.8475
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.6886,
+      -65.4532
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.4667,
+      60.9517
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.8831,
+      69.7554
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.3309,
+      -53.9825
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      28.4688,
+      -114.7571
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.1868,
+      -52.7392
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.2309,
+      67.8694
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.8681,
+      -95.0973
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.3113,
+      13.276
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.352,
+      135.7782
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.4724,
+      138.3396
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      34.1302,
+      -107.8971
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.6641,
+      138.0038
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      29.4424,
+      -100.2382
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.9927,
+      74.2991
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.2817,
+      8.5275
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.3082,
+      -73.9305
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.2812,
+      136.1845
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      4.6984,
+      36.9734
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.6606,
+      39.996
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.5638,
+      9.2331
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.4842,
+      9.6656
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.3838,
+      70.0842
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.3346,
+      -60.5941
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.5387,
+      139.2362
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.4147,
+      -94.2166
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.0213,
+      37.7269
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.7572,
+      71.5337
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.9849,
+      -64.1779
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.8051,
+      -67.466
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      4.8608,
+      33.0882
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.7782,
+      -98.3389
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.7802,
+      137.7845
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.9189,
+      -74.082
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.2589,
+      76.1824
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7281,
+      -73.9305
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.1433,
+      -57.148
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.169,
+      -62.6122
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.9196,
+      138.2558
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.0258,
+      -51.9869
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.263,
+      -93.069
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -2.3088,
+      -63.638
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.849,
+      13.6145
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.2781,
+      9.8937
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.7989,
+      72.5315
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -4.1542,
+      -53.2213
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.8563,
+      -63.4019
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.2136,
+      7.7688
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.5692,
+      66.918
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.4406,
+      5.2769
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.1603,
+      60.4542
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.7627,
+      -93.0508
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -0.379,
+      -63.2471
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.0002,
+      66.6867
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.4315,
+      137.4646
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.5032,
+      139.373
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.565,
+      -93.5919
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.0586,
+      8.4086
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.6683,
+      -95.74
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.8812,
+      139.5995
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.8357,
+      -95.538
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.1513,
+      136.0742
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.473,
+      -73.9532
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.5386,
+      -92.0539
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      2.9866,
+      33.599
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.2796,
+      6.2107
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.9186,
+      -98.8796
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.6378,
+      75.9909
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.8108,
+      75.2745
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.655,
+      -66.0158
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.5154,
+      10.1399
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.4957,
+      135.9715
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.0612,
+      136.2782
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.5242,
+      -73.9414
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.8202,
+      14.9928
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.0077,
+      136.1977
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.0131,
+      -73.9693
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.0995,
+      73.6457
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.1318,
+      -99.1311
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.798,
+      -73.982
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.2559,
+      11.8175
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.4891,
+      137.4571
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.5453,
+      10.0212
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7583,
+      -73.925
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.5641,
+      -74.0151
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.8292,
+      14.3057
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.2476,
+      -99.1559
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.2153,
+      136.3279
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.9846,
+      72.6659
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8834,
+      -74.0061
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -1.3496,
+      37.4838
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.2074,
+      136.0572
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.5644,
+      -95.2197
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.4505,
+      -99.7578
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.1758,
+      -90.6324
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.0529,
+      135.4219
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.6795,
+      135.8526
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.3122,
+      136.7796
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.2083,
+      139.8643
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.2212,
+      39.2018
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      4.4894,
+      39.0257
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.0184,
+      -105.7713
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.6698,
+      8.9915
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      3.7025,
+      -59.6019
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.0533,
+      37.7403
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      29.7882,
+      -106.919
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      4.667,
+      30.5229
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.2006,
+      -59.7078
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.0938,
+      139.5147
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.5284,
+      135.9434
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.1267,
+      137.4081
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.7973,
+      -91.6527
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      29.604,
+      -113.9484
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.8716,
+      37.4094
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.3917,
+      13.0219
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      0.4685,
+      32.7686
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.8111,
+      73.3048
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -1.0486,
+      31.6775
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.5034,
+      -97.2842
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.016,
+      12.175
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.5514,
+      -74.0456
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.0697,
+      -74.0803
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.1463,
+      138.6199
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.9778,
+      7.1045
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      29.8811,
+      -110.0093
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.1759,
+      138.7025
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      15.7995,
+      -96.064
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.9329,
+      137.7475
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.2924,
+      35.4042
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      34.8327,
+      -105.5937
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.9303,
+      33.6957
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.0407,
+      62.6141
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -4.8136,
+      39.0772
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      31.9839,
+      -111.5935
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.3054,
+      -106.594
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.2939,
+      9.0653
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.8992,
+      -60.886
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      30.7357,
+      -111.2325
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.5735,
+      -97.422
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.4836,
+      11.7491
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.7761,
+      66.3663
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8453,
+      -74.0684
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.3964,
+      10.9989
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.1452,
+      73.6983
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.1218,
+      139.7577
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.2683,
+      -73.997
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      1.9683,
+      35.1514
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.5753,
+      66.4193
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -1.6787,
+      -62.2281
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      24.2653,
+      -104.6125
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.4441,
+      78.2851
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.7952,
+      137.3265
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.0305,
+      -62.1498
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.3273,
+      -96.0145
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      0.9385,
+      35.4847
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      25.4775,
+      -107.8464
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.144,
+      -112.6259
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      2.3143,
+      -55.0856
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      31.36,
+      -101.0272
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.4335,
+      66.5497
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.1159,
+      -74.0324
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.0855,
+      -50.1323
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      48.7726,
+      7.6055
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      29.2577,
+      -107.9331
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.4916,
+      -73.9189
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.6722,
+      13.5684
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      17.4774,
+      -94.9987
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.7334,
+      11.3397
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.4566,
+      60.4207
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.0645,
+      60.2848
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.7938,
+      -96.5707
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.1242,
+      5.8632
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.0904,
+      7.4839
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.0571,
+      -58.1363
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -3.5898,
+      36.5807
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.4332,
+      68.8357
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.7713,
+      -93.7316
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      65.8813,
+      71.5798
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      1.7868,
+      -67.1999
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      2.6432,
+      31.2117
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.2301,
+      -74.0033
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.3091,
+      -107.8983
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.8471,
+      -90.2712
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.2911,
+      39.603
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      28.3185,
+      -108.5405
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.2354,
+      7.9183
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.3013,
+      -104.1055
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.3226,
+      38.615
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.7176,
+      60.1197
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.1228,
+      60.1273
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.1863,
+      -73.9191
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      31.5973,
+      -113.0913
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.5034,
+      -74.0125
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      4.3998,
+      35.3789
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.2269,
+      -73.9261
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.0225,
+      8.1047
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      26.9784,
+      -114.2116
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.9436,
+      -74.0975
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.5182,
+      138.2254
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.7122,
+      -73.9033
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      46.3186,
+      13.9452
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      4.0832,
+      -53.1187
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.0411,
+      -92.6382
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.3293,
+      137.1427
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      69.8256,
+      69.8776
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.1089,
+      -99.1307
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -1.013,
+      32.9897
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.925,
+      12.6172
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -0.4574,
+      35.6078
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      4.6553,
+      35.0575
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.6363,
+      138.2605
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.6171,
+      -60.8456
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.0408,
+      139.2216
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.4628,
+      75.8539
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.3492,
+      138.0952
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      -2.6835,
+      31.9787
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      28.5858,
+      -106.8586
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.8317,
+      73.9412
+    ]
+  },
+  {
+    "text": "savanna",
+    "location": [
+      3.5652,
+      33.8228
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      16.6949,
+      -90.1463
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      49.8189,
+      12.2173
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      32.0012,
+      -110.5392
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.1292,
+      -73.9086
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.1849,
+      63.1655
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.1992,
+      -62.6102
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.4542,
+      10.1452
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.1199,
+      -54.0268
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.1296,
+      -73.9455
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.4412,
+      71.7169
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.4833,
+      62.0236
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.8212,
+      -74.0196
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      19.0893,
+      -96.3218
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.9468,
+      -74.0353
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.8979,
+      137.0023
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      0.2723,
+      -53.9715
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      35.9953,
+      135.174
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      31.4316,
+      -108.5606
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.9308,
+      -73.9031
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      27.0581,
+      -102.0366
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      67.2672,
+      70.5318
+    ]
+  },
+  {
+    "text": "urban skyline",
+    "location": [
+      40.6045,
+      -74.0332
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      47.1079,
+      13.619
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      66.4357,
+      77.9688
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.1865,
+      -59.2043
+    ]
+  },
+  {
+    "text": "coastal city",
+    "location": [
+      34.3446,
+      136.5817
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      33.2832,
+      -114.9285
+    ]
+  },
+  {
+    "text": "volcano",
+    "location": [
+      18.4753,
+      -95.977
+    ]
+  },
+  {
+    "text": "desert",
+    "location": [
+      30.0531,
+      -114.5403
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -3.0529,
+      -53.4459
+    ]
+  },
+  {
+    "text": "mountain",
+    "location": [
+      45.8568,
+      13.7939
+    ]
+  },
+  {
+    "text": "tundra",
+    "location": [
+      68.8338,
+      71.5305
+    ]
+  },
+  {
+    "text": "rainforest",
+    "location": [
+      -1.7534,
+      -56.6185
+    ]
+  }
+]
