@@ -1,4 +1,21 @@
+include README.md
+include LICENSE
+include CONTRIBUTING.md
+include requirements.txt
+
+recursive-include geoclip *.py
 recursive-include geoclip/model/gps_gallery *.csv
 recursive-include geoclip/model/weights *.pth
 recursive-include geoclip/images *.png
+
+recursive-include docs *.md
+recursive-include examples *.py
 recursive-include figures *.png
+
+# Exclude development and experimental files
+recursive-exclude experiments *
+recursive-exclude tests *
+recursive-exclude scripts *
+exclude .gitignore
+exclude .vscode
+exclude *.log

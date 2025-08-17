@@ -1,0 +1,2 @@
+# This file ensures the figures directory is preserved in git
+# Actual figure files are managed by .gitignore
