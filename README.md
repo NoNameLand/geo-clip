@@ -153,7 +153,7 @@ If you don't have the trained bundles, the scripts will use random initializatio
 ## 🧠 Advanced: Soft Prompt Model
 
 For advanced users interested in the underlying geographic-text alignment model, we provide our **Soft Prompt Dictionary** architecture - the chosen approach after extensive experimentation:
-
+![ALT TEXT](image.png)
 - **Training**: [`experiments/training_variants/train_softprompt_model.py`](experiments/training_variants/train_softprompt_model.py)
 - **Configuration**: [`experiments/training_variants/softprompt_config.py`](experiments/training_variants/softprompt_config.py)  
 - **Inference**: [`experiments/training_variants/softprompt_inference.py`](experiments/training_variants/softprompt_inference.py)
